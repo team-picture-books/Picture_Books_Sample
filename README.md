@@ -1,1 +1,2 @@
-# picture_books_sample
+# picture-booksのサンプルプロジェクトです
+### 試したい機能やギミックの試作品などを扱います
