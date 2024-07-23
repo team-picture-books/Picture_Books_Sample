@@ -1,7 +1,7 @@
 # Picture-Booksのサンプルプロジェクトです
 ## 試したい機能やギミックの試作品などを扱います
 ### Unity
-Editor 2021.3.23f1(仮)
+Editor Unity 2021.3, 2022.3, 2023.2(仮)
 
 build フォーマット Windows10 Windows11
 ### Rule
